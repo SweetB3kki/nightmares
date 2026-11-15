@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 876df08b0b6dc724481a56d56a8a091c
+  - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 1839fee9761572443a77b775b8ca5d14
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/clocks.unity
+    guid: b825b13ff242b0042bc8802677726c54
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: b8d8e832d9aec5849a420cf742c6a517
+  - enabled: 1
+    path: Assets/Scenes/labirint.unity
+    guid: df021506ae6f50345a1d93e95d90a39c
+  - enabled: 1
+    path: Assets/Scenes/bossfight.unity
+    guid: 261a1099517908b4d9af20177e16335d
+  - enabled: 1
+    path: Assets/Scenes/fiol_location.unity
+    guid: 5ca88be6d099bdf42b254d21033a0900
+  m_configObjects: {}
